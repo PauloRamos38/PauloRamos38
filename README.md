@@ -18,5 +18,5 @@ Confira também meu portfólio completo em [@Prodonay](https://github.com/Prodon
 
 ---
 
-📫 **Contato:** [(www.linkedin.com/in/paulo-ramos-de-liveira) | [(paulooliveira38.dev@gmail.com)]
+📫 **Contato:** [(www.linkedin.com/in/paulo-ramos-de-liveira) | [(professorpauloramosoliveira@gmail.com)]
 )
