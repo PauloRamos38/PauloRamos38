@@ -1,54 +1,69 @@
 # 👨‍💻 Paulo Ramos
 
 🎓 Estudante de Sistemas de Informação
-🚀 Foco em Desenvolvimento e DevOps
-💻 Python • Java • JavaScript • Docker • CI/CD • Linux
+🚀 Em transição de carreira para a área de Tecnologia
+💻 Foco em Desenvolvimento Backend e DevOps
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-* 🔹 **Flask API + Docker + CI/CD – Pipeline completo**
-  [https://github.com/PauloRamos38/SEU-REPO-FLASK-AQUI](https://github.com/PauloRamos38/SEU-REPO-FLASK-AQUI)
+* 🔹 Flask API com Docker e CI/CD
+  Desenvolvimento de uma API em Python utilizando Flask, containerização com Docker e automação com pipeline de integração contínua.
 
-* 🔹 **Infraestrutura como Código com Terraform (AWS)**
-  [https://github.com/PauloRamos38/SEU-REPO-TERRAFORM-AQUI](https://github.com/PauloRamos38/SEU-REPO-TERRAFORM-AQUI)
+* 🔹 Infraestrutura como Código com Terraform
+  Estudos e práticas de provisionamento de infraestrutura em nuvem utilizando conceitos de DevOps.
 
-* 🔹 **Monitoramento com Prometheus + Grafana**
-  [https://github.com/PauloRamos38/SEU-REPO-MONITORAMENTO-AQUI](https://github.com/PauloRamos38/SEU-REPO-MONITORAMENTO-AQUI)
-
----
-
-## 💻 Outros Projetos
-
-* 🔸 pipeline-cicd-monitoramento
-* 🔸 ferramenta_de_devops
-* 🔸 flask-api-docker-cicd
-* 🔸 alura.js 
-*  e Projetos acadêmicos
-
-Veja todos em:
-[https://github.com/PauloRamos38?tab=repositories](https://github.com/PauloRamos38?tab=repositories)
+* 🔹 Monitoramento de Aplicações
+  Experimentos com ferramentas de observabilidade e monitoramento para ambientes containerizados.
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+## 💻 Experiência com Programação
 
-* Linguagens: Python, Java, JavaScript, C
-* DevOps: Docker, GitHub Actions, CI/CD
-* Cloud: AWS (estudando)
-* Infraestrutura: Linux, Terraform
-* Versionamento: Git e GitHub
-
----
-
-## 🎯 Objetivo
-
-Atuar como Desenvolvedor Júnior ou em funções iniciais de DevOps, aplicando conhecimentos em backend, automação e cloud.
+* Projetos acadêmicos e pessoais em C, Python e Java
+* Scripts de automação e lógica de programação
+* Estruturas de dados e algoritmos
+* Versionamento de código com Git e GitHub
 
 ---
 
-## 📫 Contato
+## 🧠 Habilidades Técnicas
 
-GitHub: [https://github.com/PauloRamos38](https://github.com/PauloRamos38)
-LinkedIn: COLOQUE_SEU_LINK_LINKEDIN_AQUI
+**Linguagens:**
+
+* Python
+* Java
+* JavaScript
+* C
+
+**Ferramentas e Tecnologias:**
+
+* Docker
+* GitHub Actions (CI/CD)
+* Linux
+* Git e GitHub
+
+**Em aprendizado:**
+
+* AWS
+* Terraform
+* Práticas DevOps
+
+---
+
+## 🎯 Objetivo Profissional
+
+Buscando oportunidade como:
+
+* Desenvolvedor Júnior
+* Estágio em TI
+* DevOps Júnior
+
+Com foco em desenvolvimento backend, automação e computação em nuvem.
+
+---
+
+## 📌 Sobre Mim
+
+Profissional em transição de carreira para a área de tecnologia, com formação na área de Linguagens e experiência anterior em ensino, tradução, vendas e suporte. Atualmente dedicado ao desenvolvimento de projetos práticos e ao fortalecimento das habilidades técnicas voltadas ao mercado de TI.
