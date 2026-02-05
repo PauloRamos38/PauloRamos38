@@ -11,7 +11,9 @@
 - 📊 [Monitoring Stack](link) - Prometheus + Grafana
 
 ## 💻 Outros Projetos de Programação
-Confira também meu portfólio completo em [@Prodonay](https://github.com/Prodonay) com projetos de:
+Confira também meu portfólio completo em:
+https://github.com/prodonay
+ com projetos de:
 - Desenvolvimento Web (HTML/CSS/JS)
 - Java (POO, algoritmos)
 - Python (scripts e automação)
