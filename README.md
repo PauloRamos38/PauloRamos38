@@ -1,69 +1,68 @@
-# 👨‍💻 Paulo Ramos
+<h1 align="center">👨‍💻 Paulo Ramos</h1>
 
-🎓 Estudante de Sistemas de Informação
-🚀 Em transição de carreira para a área de Tecnologia
-💻 Foco em Desenvolvimento Backend e DevOps
-
----
-
-## 🚀 Projetos em Destaque
-
-* 🔹 Flask API com Docker e CI/CD
-  Desenvolvimento de uma API em Python utilizando Flask, containerização com Docker e automação com pipeline de integração contínua.
-
-* 🔹 Infraestrutura como Código com Terraform
-  Estudos e práticas de provisionamento de infraestrutura em nuvem utilizando conceitos de DevOps.
-
-* 🔹 Monitoramento de Aplicações
-  Experimentos com ferramentas de observabilidade e monitoramento para ambientes containerizados.
+<p align="center">
+  🚀 DevOps & Cloud em formação | Backend | CI/CD <br>
+  🐳 Docker • ⚙️ GitHub Actions • ☁️ AWS • 🏗️ Terraform
+</p>
 
 ---
 
-## 💻 Experiência com Programação
+## 🚀 Projetos Publicados (Live Demo)
 
-* Projetos acadêmicos e pessoais em C, Python e Java
-* Scripts de automação e lógica de programação
-* Estruturas de dados e algoritmos
-* Versionamento de código com Git e GitHub
-
----
-
-## 🧠 Habilidades Técnicas
-
-**Linguagens:**
-
-* Python
-* Java
-* JavaScript
-* C
-
-**Ferramentas e Tecnologias:**
-
-* Docker
-* GitHub Actions (CI/CD)
-* Linux
-* Git e GitHub
-
-**Em aprendizado:**
-
-* AWS
-* Terraform
-* Práticas DevOps
+### 🔹 Microservices Node.js
+Arquitetura baseada em microsserviços com Node.js  
+🌐 <a href="https://pauloramos38.github.io/microservices-nodejs/">Acessar Projeto</a>
 
 ---
 
-## 🎯 Objetivo Profissional
-
-Buscando oportunidade como:
-
-* Desenvolvedor Júnior
-* Estágio em TI
-* DevOps Júnior
-
-Com foco em desenvolvimento backend, automação e computação em nuvem.
+### 🔹 Pipeline CI/CD com Monitoramento
+Pipeline automatizado com GitHub Actions e monitoramento de aplicação  
+🌐 <a href="https://pauloramos38.github.io/pipeline-cicd-monitoramento/">Acessar Projeto</a>
 
 ---
 
-## 📌 Sobre Mim
+## 🛠️ Projetos Técnicos
 
-Profissional em transição de carreira para a área de tecnologia, com formação na área de Linguagens e experiência anterior em ensino, tradução, vendas e suporte. Atualmente dedicado ao desenvolvimento de projetos práticos e ao fortalecimento das habilidades técnicas voltadas ao mercado de TI.
+### 🔹 API Flask com Docker e CI/CD
+- API REST em Python (Flask)
+- Containerização com Docker
+- Pipeline automatizado com GitHub Actions
+- Build automático a cada push na branch main
+
+### 🔹 Infraestrutura como Código (Terraform)
+- Estrutura modular
+- Conceitos de IaC
+- Organização de provisionamento cloud (estudos práticos)
+
+---
+
+## ⚙️ Stack Tecnológica
+
+<p>
+  🐍 Python &nbsp;&nbsp;
+  🐳 Docker &nbsp;&nbsp;
+  ⚙️ GitHub Actions &nbsp;&nbsp;
+  🌿 Git &nbsp;&nbsp;
+  🐧 Linux &nbsp;&nbsp;
+  ☁️ AWS &nbsp;&nbsp;
+  🏗️ Terraform
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Buscando minha primeira oportunidade como:
+
+- DevOps Júnior  
+- Cloud Júnior  
+- Infraestrutura / Suporte  
+- Desenvolvedor Backend Júnior  
+
+📍 Disponível para Recife, híbrido ou remoto.
+
+---
+
+## 📌 Sobre
+
+Profissional em transição para tecnologia, desenvolvendo projetos práticos com foco em automação, containerização e integração contínua. Busco evoluir em ambientes colaborativos aplicando boas práticas de desenvolvimento e infraestrutura.
